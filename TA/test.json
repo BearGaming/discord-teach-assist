@@ -1,0 +1,189 @@
+[
+    {
+      "start_time": "2019-09-03",
+      "end_time": "2020-01-31",
+      "code": "AVI2O1-01",
+      "name": "Visual Arts",
+      "block": "1",
+      "room": "319",
+      "overall_mark": 87.5664467885056,
+      "assignments": [
+        {
+          "feedback": "Very good.",
+          "name": "FInal Project",
+          "KU": [
+            {
+              "get": 0,
+              "weight": 3,
+              "finished": true,
+              "total": 10
+            }
+          ],
+          "A": [
+            {
+              "get": 2,
+              "weight": 3,
+              "finished": true,
+              "total": 10
+            }
+          ],
+          "C": [
+            {
+              "get": 6,
+              "weight": 3,
+              "finished": true,
+              "total": 10
+            }
+          ],
+          "T": [
+            {
+              "get": 6,
+              "weight": 3,
+              "finished": true,
+              "total": 10
+            }
+          ]
+        },
+        {
+            "feedback": "I love bears.",
+            "name": "Cycle 2 Test",
+            "KU": [
+              {
+                "get": 3,
+                "weight": 3,
+                "finished": true,
+                "total": 10
+              }
+            ],
+            "A": [
+              {
+                "get": 7,
+                "weight": 3,
+                "finished": true,
+                "total": 10
+              }
+            ],
+            "C": [
+              {
+                "get": 6,
+                "weight": 3,
+                "finished": true,
+                "total": 10
+              }
+            ],
+            "T": [
+              {
+                "get": 6,
+                "weight": 3,
+                "finished": true,
+                "total": 10
+              }
+            ]
+          },
+          {
+            "feedback": "Bears are carnivoran mammals of the family Ursidae. They are classified as caniforms, or doglike carnivorans. Although only eight species of bears are extant, they are widespread, appearing in a wide variety of habitats throughout the Northern Hemisphere and partially in the Southern Hemisphere. Wikipedia.",
+            "name": "Photo graphy Unit: Bears",
+            "KU": [
+              {
+                "get": 10,
+                "weight": 3,
+                "finished": true,
+                "total": 10
+              }
+            ],
+            "A": [
+              {
+                "get": 10,
+                "weight": 6,
+                "finished": true,
+                "total": 10
+              }
+            ],
+            "C": [
+              {
+                "get": 10,
+                "weight": 3,
+                "finished": true,
+                "total": 10
+              }
+            ],
+            "T": [
+              {
+                "get": 10,
+                "weight": 3,
+                "finished": true,
+                "total": 10
+              }
+            ]
+          },
+          {
+            "feedback": "Try harder next time you sussy baka.",
+            "name": "Breaking Bad painting",
+            "KU": [
+              {
+                "get": 4,
+                "weight": 3,
+                "finished": true,
+                "total": 10
+              }
+            ],
+            "A": [
+              {
+                "get": 2,
+                "weight": 6,
+                "finished": true,
+                "total": 10
+              }
+            ],
+            "C": [
+              {
+                "get": 1,
+                "weight": 3,
+                "finished": true,
+                "total": 10
+              }
+            ],
+            "T": [
+              {
+                "get": 2,
+                "weight": 3,
+                "finished": true,
+                "total": 10
+              }
+            ]
+          }
+      ],
+      "weight_table": {
+        "KU": {
+          "CW": 20,
+          "W": 30,
+          "SA": 45
+        },
+        "F": {
+          "CW": 20,
+          "W": 30,
+          "SA": 80
+        },
+        "O": {
+          "CW": 20,
+          "W": 30,
+          "SA": 98
+        },
+        "A": {
+          "CW": 20,
+          "W": 30,
+          "SA": 78
+        },
+        "C": {
+          "CW": 10,
+          "W": 30,
+          "SA": 34
+        },
+        "T": {
+          "CW": 10,
+          "W": 30,
+          "SA": 90
+        }
+      }
+    }
+  ]

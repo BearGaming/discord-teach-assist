@@ -1,0 +1,147 @@
+[
+        {
+            "name": "Bill Hogarth S.S. Eco Hornets",
+            "url": "https://www.instagram.com/bhss_eco/?hl=en",
+            "description": "The offical account for Bill Hogarth Secondary Schools Eco Club",
+            "emoji_id": 0
+        },
+        {
+            "name": "Student Activity Council (SAC)",
+            "url": "https://linktr.ee/bhss_sac",
+            "description": "BHSS SAC represents the student body at Bill Hogarth Secondary School",
+            "emoji_id": 1
+        },
+        {
+            "name": "BHSS Business Club",
+            "url": "https://www.instagram.com/bhssbusinessclub/",
+            "description": "Welcome to the official business club at BHSS! Stay tuned for upcoming news, meetings and events!",
+            "emoji_id": 2
+        },
+        {
+            "name": "BHSS Science",
+            "url": "https://twitter.com/bhss_science",
+            "description": "Bill Hogarth S.S. Science Department",
+            "emoji_id": 3
+        },
+        {
+            "name": "BHSS Athletics",
+            "url": "https://twitter.com/bhssathletics",
+            "description": "Add and follow us on twitter to stay up to date on all Bill Hogarth Secondary School Athletics tryout information and game results! Lets Go Hornets!\n\nSports clubs offered:\n- Golf\n- Girls rugby\n- Boys rugby\n- Cross country\n- Tennis\n- Cricket\n- Volleyball\n- Basketball\n- Hockey\n- Curling\n- Soccer\n- Flag football\n- Ultimate frisbee\n- Baseball\n- Rock climbing\n- Track n field",
+            "emoji_id": 4
+        },
+        {
+            "name": "BHSS Music department",
+            "url": "https://twitter.com/bhssmusic?lang=en",
+            "description": "Official Bill Hogarth Music Department. BHSS Senior Band, Junior Band, Yellowjacket Jazz, Junior Jazz Band, Reprise! and HiVE (Hogarth Inspired Vocal Ensemble)",
+            "emoji_id": 5
+        },
+        {
+            "name": "BHSS Tech Studies",
+            "url": "https://mobile.twitter.com/bhsstech",
+            "description": "Bill Hogarth Secondary School Technology Department-Transportation, Construction, Tech Design, Communication.",
+            "emoji_id": 6
+        },
+        {
+            "name": "BHSS Learning Commons",
+            "url": "https://twitter.com/bhsslearningc",
+            "description": "Here to share the joy of learning and reading.",
+            "emoji_id": 7
+        },
+        {
+            "name": "BHSS Robotics",
+            "url": "https://twitter.com/bhssrobotics?lang=en",
+            "description": "Bill Hogarth Secondary School VESPA Robotics #7603",
+            "emoji_id": 8
+        },
+        {
+            "name": "South Asian Student Association (SASA)",
+            "url": "https://www.instagram.com/bhss_sasa/?hl=en",
+            "description": "Welcome to Bill Hogarth Secondary School’s first South Asian Student Association! We meet every Wednesday at 12 in room 309!",
+            "emoji_id": 9
+        },
+        {
+            "name": "Health Occupations Students of America (HOSA)",
+            "url": "https://www.instagram.com/bhsshosa/?hl=en",
+            "description": "Providing an avenue for students to learn about healthcare and develop leadership assets.",
+            "emoji_id": 10
+        },
+        {
+            "name": "Specialist High Skills Majors (SHSM)",
+            "url": "https://linktr.ee/BHSSSHSM",
+            "description": "SHSM's for careers in Buisness, Health & Wellness and Info & Communication Technology. Specialist High Skills Majors let students focus on a career path that matches their skills and interests while meeting the requirements of the Ontario Secondary School Diploma (OSSD)",
+            "emoji_id": 2,
+
+            "how_to": "Individual requirements for those interested in Health & Wellness and Buisness careers are on the club website!\n\nSign-up form: https://docs.google.com/forms/d/e/1FAIpQLSfX3Tv6l8BBjmcIbyiZbJrMA61xkZ5t4L4l7jibrStEUcbkWg/viewform"
+        },
+        {
+            "name": "Chess Club",
+            "url": "https://discord.gg/aJgZPbSF2H",
+            "description": "Do you really need a description for this club?",
+            "emoji_id": 11
+        },
+        {
+            "name": "BHSS Mathematics",
+            "url": "https://twitter.com/BhssMathematics",
+            "description": "Mathematics club at Bill Hogarth S.S.",
+            "emoji_id": 12
+        },
+        {
+            "name": "Mechanical Hornets",
+            "description": "A club that incorporates, engineering, technology and design to build cool things",
+            "emoji_id": 13
+        },
+        {
+            "name": "Me to We club",
+            "url": "https://www.instagram.com/bhssmetowe/",
+            "description": "Me to We is a for-profit company selling lifestyle products, leadership training and travel experience.",
+            "emoji_id": 9
+        },
+        {
+            "name": "Model United Nations (MUN)",
+            "description": "Model UN is a simulation of the UN General Assembly and its other multilateral bodies where students perform an ambassador role while debating topics such as gender equality, climate action, global health, and more",
+            "emoji_id": 14
+        },
+        {
+            "name": "Announcement Team",
+            "description": "The club responsible for creating and posting daily announcements at BHSS!",
+            "emoji_id": 15
+        },
+        {
+            "name": "Bullet Journal Club (BUJO)",
+            "url": "https://www.instagram.com/bhssbujo/?hl=en",
+            "description": "A club dedicated to teaching good journaling, writing and doodling techniques such as calligraphy",
+            "emoji_id": 16
+        },
+        {
+            "name": "Distributive Education Clubs of America (DECA)",
+            "url": "https://www.instagram.com/bhssdeca/",
+            "description": "DECA's flagship evaluation process involves students in both a written component such as an exam or report and an interactive component with an industry professional serving as a judge. DECA's competitive events directly contribute to every student being college and career ready when they graduate from high school.",
+            "emoji_id": 2,
+
+            "events": "Upcoming events can be found at https://twitter.com/bhssdeca?lang=en"
+        },
+        {
+            "name": "Empire Dance Team",
+            "url": "https://www.tiktok.com/@bhss_empire_danceteam",
+            "description": "A dance crew at BHSS",
+            "emoji_id": 17
+        },
+        {
+           "name": "Eco + Garden Club",
+           "url": "https://twitter.com/bhsseco_garden?lang=en",
+           "description": "The Eco and Gardening club is dedicated to contributing to student success through environmental sustainability.",
+           "emoji_id": 0 
+        },
+        {
+            "name": "BHSS Family Studies",
+            "url": "https://twitter.com/bhssfamstudies",
+            "description": "Family Studies at BHSS",
+            "emoji_id": 18
+        },
+        {
+            "name": "Tamil Student Association (TSA)",
+            "url": "https://mobile.twitter.com/bhss_tsa",
+            "description": "The TSA strives with unity and collaboration to affirm the Tamil identity within BHSS.",
+            "emoji_id": 19
+        }
+]
