@@ -229,17 +229,12 @@ if __name__ == "__main__":
     password = "f7yc545b"
 
     print(ping_server())
-    Nathaniel = Student(username, password)
-    msg, connected, status = Nathaniel.fetch_data()
+    test = Student(username, password)
+    msg, connected, status = test.fetch_data()
     
     print(status)
 
-    for course in Nathaniel.courses:
+    for course in test.courses:
         print(course.code + course.emoji)
 
     print("done")
-
-'''
-    for course in TEST_USER.courses:
-        print(course.code + course.emoji)
-        TA_Graphs.assignment_bars("assignment_marks", course.assignments[0], TA_Globals.CATEGORIES, TA_Globals.COLORS)'''
